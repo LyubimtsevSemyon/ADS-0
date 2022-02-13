@@ -1,6 +1,7 @@
 // Copyright 2021 NNTU-CS
 
 int gcd(int a, int b) {
+  // поместить сюда текст реализации алгоритма (на С++)
    int c = 0;
 bool f = 0;
 while (f == 0) {
